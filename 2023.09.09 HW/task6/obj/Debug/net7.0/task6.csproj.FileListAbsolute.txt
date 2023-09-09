@@ -1,0 +1,4 @@
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task6\obj\Debug\net7.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task6\obj\Debug\net7.0\task6.AssemblyInfoInputs.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task6\obj\Debug\net7.0\task6.AssemblyInfo.cs
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task6\obj\Debug\net7.0\task6.csproj.CoreCompileInputs.cache

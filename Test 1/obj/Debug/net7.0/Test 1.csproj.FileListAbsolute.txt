@@ -1,0 +1,14 @@
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\Test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\Test 1.AssemblyInfoInputs.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\Test 1.AssemblyInfo.cs
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\Test 1.csproj.CoreCompileInputs.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\bin\Debug\net7.0\Test 1.exe
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\bin\Debug\net7.0\Test 1.deps.json
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\bin\Debug\net7.0\Test 1.runtimeconfig.json
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\bin\Debug\net7.0\Test 1.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\bin\Debug\net7.0\Test 1.pdb
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\Test 1.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\refint\Test 1.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\Test 1.pdb
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\Test 1.genruntimeconfig.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\Test 1\obj\Debug\net7.0\ref\Test 1.dll
