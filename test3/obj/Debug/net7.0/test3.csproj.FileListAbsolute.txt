@@ -1,0 +1,4 @@
+C:\Users\Suiti\Desktop\3D7\Prog\C#\test3\obj\Debug\net7.0\test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suiti\Desktop\3D7\Prog\C#\test3\obj\Debug\net7.0\test3.AssemblyInfoInputs.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\test3\obj\Debug\net7.0\test3.AssemblyInfo.cs
+C:\Users\Suiti\Desktop\3D7\Prog\C#\test3\obj\Debug\net7.0\test3.csproj.CoreCompileInputs.cache
