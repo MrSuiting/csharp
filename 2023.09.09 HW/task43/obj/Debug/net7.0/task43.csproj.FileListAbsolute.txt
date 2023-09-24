@@ -1,0 +1,14 @@
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\task43.AssemblyInfoInputs.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\task43.AssemblyInfo.cs
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\task43.csproj.CoreCompileInputs.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\bin\Debug\net7.0\task43.exe
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\bin\Debug\net7.0\task43.deps.json
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\bin\Debug\net7.0\task43.runtimeconfig.json
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\bin\Debug\net7.0\task43.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\bin\Debug\net7.0\task43.pdb
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\task43.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\refint\task43.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\task43.pdb
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\task43.genruntimeconfig.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task43\obj\Debug\net7.0\ref\task43.dll
