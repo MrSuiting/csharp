@@ -6,7 +6,7 @@ namespace ConsoleApplication7
     {
         static void Main()
         {
-            const int n = 1;
+            const int n = 5;
             var a = GetSpire(n);
             for (int i = 0; i < n; i++)
             {
@@ -41,11 +41,13 @@ namespace ConsoleApplication7
     }
 }
 
-/* нашел такое решение, доделываю чтобы в спирали был инкремент числа с каждым шагом построения спирали
-могу не успеть к проверке */
+/* нашел такое решение, доделываю чтобы в спирали был инкремент числа с каждым шагом построения спирали;
+могу не успеть проапдейтить к проверке; 
 
-static void Verybusy()
+
+static void busy()
 {
     Console.WriteLine("(ó﹏ò｡)");
 }
-Verybusy();
+busy;
+*/
