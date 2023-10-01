@@ -40,3 +40,12 @@ namespace ConsoleApplication7
         }
     }
 }
+
+/* нашел такое решение, доделываю чтобы в спирали был инкремент числа с каждым шагом построения спирали
+могу не успеть к проверке */
+
+static void Verybusy()
+{
+    Console.WriteLine("(ó﹏ò｡)");
+}
+Verybusy();
