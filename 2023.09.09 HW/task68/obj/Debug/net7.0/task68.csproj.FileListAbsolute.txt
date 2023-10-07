@@ -1,0 +1,14 @@
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\bin\Debug\net7.0\task68.exe
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\bin\Debug\net7.0\task68.deps.json
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\bin\Debug\net7.0\task68.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\bin\Debug\net7.0\task68.pdb
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\task68.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\refint\task68.dll
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\task68.pdb
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+C:\Users\Suiti\Desktop\3D7\Prog\C#\2023.09.09 HW\task68\obj\Debug\net7.0\ref\task68.dll
